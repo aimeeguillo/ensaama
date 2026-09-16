@@ -3,7 +3,7 @@ Auj : 16 septembre 2026
 
 ### 1_aframe
 * [demo aframe](./test.html)
-* [Mozaïque]([https://www.lequipe.fr](https://mosaiquemagazine.fr/)/)
+* [mozaïque]([https://www.lequipe.fr](https://mosaiquemagazine.fr/)/)
 
 ### 2_python
 
