@@ -6,6 +6,7 @@ Auj : 16 septembre 2026
 * [mozaïque](https://mosaiquemagazine.fr/)
 
 ### 2_python
+* [google](https://google.com)
 
 
 ### 3_teachable machine
